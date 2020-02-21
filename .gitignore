@@ -1,3 +1,4 @@
-hci_logs/
+*.pcap
+*.log
 .ipynb_checkpoints
 .git
